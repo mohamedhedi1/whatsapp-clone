@@ -1,4 +1,4 @@
-package com.example.whatsappclonebackend;
+package com.mohamedhedi1.whatsappclonebackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
