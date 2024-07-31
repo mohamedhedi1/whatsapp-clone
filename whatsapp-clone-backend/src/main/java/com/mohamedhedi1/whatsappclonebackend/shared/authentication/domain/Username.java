@@ -1,7 +1,7 @@
 package com.mohamedhedi1.whatsappclonebackend.shared.authentication.domain;
 
 
-import fr.codecake.whatsappclone.shared.error.domain.Assert;
+import com.mohamedhedi1.whatsappclonebackend.shared.error.domain.Assert;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.Optional;

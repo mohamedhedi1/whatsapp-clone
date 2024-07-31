@@ -1,6 +1,6 @@
 package com.mohamedhedi1.whatsappclonebackend.shared.authentication.infrastructure.primary;
 
-import fr.codecake.whatsappclone.shared.authentication.application.AuthenticatedUser;
+import com.mohamedhedi1.whatsappclonebackend.shared.authentication.application.AuthenticatedUser;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.lang.NonNull;
 import org.springframework.security.authentication.AbstractAuthenticationToken;
