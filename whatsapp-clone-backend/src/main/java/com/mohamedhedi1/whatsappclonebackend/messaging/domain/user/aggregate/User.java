@@ -67,7 +67,7 @@ public class User {
     }
 
     public static User fromTokenAttributes(Map<String, Object> attributes, List<String> rolesFromAccessToken) {
-        org.springframework.security.core.userdetails.User.UserBuilder userBuilder = UserBuilder.user();
+        UserBuilder userBuilder = UserBuilder.user();
 
         String sub = String.valueOf(attributes.get("sub"));
 
