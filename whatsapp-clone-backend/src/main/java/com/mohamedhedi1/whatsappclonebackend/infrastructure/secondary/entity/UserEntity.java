@@ -3,7 +3,7 @@ package com.mohamedhedi1.whatsappclonebackend.infrastructure.secondary.entity;
 import org.springframework.security.core.userdetails.User.UserBuilder;
 import com.mohamedhedi1.whatsappclonebackend.messaging.domain.user.aggregate.User;
 import com.mohamedhedi1.whatsappclonebackend.shared.jpa.AbstractAuditingEntity;
-import com.mohamedhedi1.whatsappclonebackend.messaging.domain.user.aggregate.UserBuilder;
+import com.mohamedhedi1.whatsappclonebackend.messaging.domain.user.aggregate.UserEntityBuilder;
 import com.mohamedhedi1.whatsappclonebackend.messaging.domain.user.vo.*;
 
 import jakarta.persistence.*;
